@@ -11,8 +11,8 @@ public class quiz
     {
        System.out.println("Is the Universe expanding?");
        System.out.println("\tA.) Yes");
-       System.out.println("\tA.) No");
-       System.out.println("\tA.) What's the Universe?");
+       System.out.println("\tB.) No");
+       System.out.println("\tC.) What's the Universe?");
     }
     public void Quiz()
     {
